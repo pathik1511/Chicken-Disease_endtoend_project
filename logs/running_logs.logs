@@ -673,3 +673,38 @@ Traceback (most recent call last):
   File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
   File "box\box.py", line 552, in box.box.Box.__getattr__
 box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'artifacts_root'"
+[2023-12-12 15:32:23,896: INFO: main: >>>>>>>>>>>> Data Ingestion Stage started <<<<<<<<<<<<<<<<<:]
+[2023-12-12 15:32:23,900: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-12 15:32:23,904: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-12 15:32:23,905: INFO: common: directory: artifacts created successfully:]
+[2023-12-12 15:32:23,906: INFO: common: directory: artifacts/data_ingestion created successfully:]
+[2023-12-12 15:32:24,973: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C1AC:5C2B:356B78:41562C:6578B580
+Accept-Ranges: bytes
+Date: Tue, 12 Dec 2023 20:32:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100022-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1702413144.642622,VS0,VE81
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bc3193f89a1f415f49eb46533d94a28e38151d9c
+Expires: Tue, 12 Dec 2023 20:37:23 GMT
+Source-Age: 0
+
+:]
+[2023-12-12 15:32:25,465: INFO: main: >>>>>>>>>>>> Data Ingestion Stage completed <<<<<<<<<<<<<<<<<
+
+ x========================x:]

@@ -1,0 +1,61 @@
+[2023-12-04 13:52:10,860: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 13:52:10,869: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 13:56:51,546: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 13:56:51,552: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:00:29,158: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:00:29,161: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:01:37,084: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:01:37,112: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:05:22,045: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:05:22,048: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:05:42,792: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:05:42,795: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:13:07,361: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:13:07,364: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:16:41,417: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:16:41,421: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:17:08,145: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:17:08,147: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:17:53,247: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:17:53,250: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:23:58,872: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:23:58,874: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:25:48,756: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:25:48,760: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:29:30,813: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:29:30,821: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-04 14:45:55,834: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-04 14:45:55,842: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-12 14:28:21,340: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-12 14:28:21,380: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-12 14:33:23,595: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-12 14:33:23,597: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-12 14:33:23,599: INFO: common: directory: artifacts created successfully:]
+[2023-12-12 14:33:23,601: INFO: common: directory: artifacts/data_ingestion created successfully:]
+[2023-12-12 14:33:26,482: INFO: 4037744573: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C1AC:5C2B:356B78:41562C:6578B580
+Accept-Ranges: bytes
+Date: Tue, 12 Dec 2023 19:33:25 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100055-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1702409605.859546,VS0,VE309
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f5784d9898619f7fd40a76e367618de7042d1389
+Expires: Tue, 12 Dec 2023 19:38:25 GMT
+Source-Age: 0
+
+:]
